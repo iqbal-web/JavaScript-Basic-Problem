@@ -17,3 +17,4 @@ Here are some of javascript basic problems
 11.  Remove false value in array 
 12.  Remove false value in object 
 13.  Callback Pattern | Asynchronous
+14.  Promises Example
