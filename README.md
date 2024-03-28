@@ -19,3 +19,4 @@ Here are some of javascript basic problems
 13.  Callback Pattern | Asynchronous
 14.  Promises Example
 15.  Async & Await Example
+16. Problem 01 ![Problem 01](problem-image/problem-01.png)
