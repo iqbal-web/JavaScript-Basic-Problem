@@ -1,0 +1,27 @@
+body {
+	background: #FFE4C4;
+	padding: 0;
+	margin: 0;
+}
+
+.wrapper {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.btn-test {
+	width: 100%;
+	padding: 10px;
+}
+
+.item {
+    background: #fff;
+    padding: 30px 30px 15px 30px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.item:last-child {
+	margin-bottom: 0;
+}
